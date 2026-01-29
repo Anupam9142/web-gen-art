@@ -26,7 +26,7 @@ A real-time web application that transforms room textures and environments using
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhijeet1520/web-gen-art.git
+   git clone https://github.com/Anupam9142/web-gen-art.git
    cd web-gen-art
    ```
 
